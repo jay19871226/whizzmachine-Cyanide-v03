@@ -1,6 +1,7 @@
 # whizzmachine-Cyanide-v03
 To mt6592
 
+# KiddStorm
 # Boot
 data
 dev
@@ -14,3 +15,4 @@ sbin/ueventd
 sbin/watchdogd
 sys
 system
+ueventdmt6592
