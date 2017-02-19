@@ -206,4 +206,6 @@
 /dev/kick_powerkey      0600   system  system
 
 #MTK In-House TEE
-/dev/ttyACM0		  0660   radio	    radio
+/dev/trustzone		  0660   root	    drmrpc
+/dev/tzmem           0660   root       drmrpc
+
