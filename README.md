@@ -15,4 +15,6 @@ sbin/ueventd
 sbin/watchdogd
 sys
 system
+Gnu 4.9
+Py.vrs.py
 ueventdmt6592
